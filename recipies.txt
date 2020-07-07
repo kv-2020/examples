@@ -10,6 +10,9 @@ fish biryani
 palak paneer
 paneer pakoda
 mutter paneer
+chicken fry
+mutton fry
+shrimp fry
 
 
 byee....
