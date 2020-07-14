@@ -1,4 +1,4 @@
-i all,
+hi all,
      in this section we will have only tiffins section
      
      chapathi 
@@ -14,6 +14,8 @@ i all,
      butter
      pancakes
      waffles
+muffins
+bagel
      these are continental breakfast
 
    
