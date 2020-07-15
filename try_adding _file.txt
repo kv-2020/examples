@@ -1,2 +1,4 @@
 I am trying to add a new file in the local repository all by my self and i am learning.
 i learnt the way to do it ,now i am solvig a problem kannamma gave me to solve it.
+
+this is part 2 of group 2.
