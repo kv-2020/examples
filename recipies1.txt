@@ -24,4 +24,6 @@ bagel
      
      thanks
 
+\i am trying to commit again part 2 group 2
+
 this is part 1 of group 2
